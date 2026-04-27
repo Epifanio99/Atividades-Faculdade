@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c3353ff-2b64-4b52-9db2-eb37c579ef3a" name="Changes" comment="" />
+    <list default="true" id="2c3353ff-2b64-4b52-9db2-eb37c579ef3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,13 +42,18 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/luqui/OneDrive/Documentos/Faculdade/Atividade Semestre 1/Pratique 1 - Primeiro Semestre",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/luqui/OneDrive/Documentos/Faculdade/Atividade Semestre 1/Pratique 1 - Primeiro Semestre/src/Main.java",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luqui\OneDrive\Documentos\Faculdade\Atividade Semestre 1\Pratique 1 - Primeiro Semestre" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luqui\OneDrive\Documentos\Faculdade\Atividade Semestre 1\Pratique 1 - Primeiro Semestre\out" />
       <recent name="C:\Users\luqui\OneDrive\Documentos\Faculdade\Atividade Semestre 1\Pratique 1 - Primeiro Semestre\Pratique-1" />
     </key>
   </component>
